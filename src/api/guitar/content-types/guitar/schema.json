@@ -35,6 +35,10 @@
       "type": "uid",
       "targetField": "name",
       "required": true
+    },
+    "imageUrl": {
+      "type": "string",
+      "required": true
     }
   }
 }
